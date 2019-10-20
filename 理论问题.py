@@ -4,7 +4,7 @@ Created on Thu Oct 17 09:56:22 2019
 理论题目
 @author: us
 """
-
+'''
 2. 回答以下理论题目
 2.1 What conditions are required to make the BFS return the optimal solution ?
 Ans:cost要大于等于0 ；要把维护的list按照cost进行排序       
@@ -32,3 +32,4 @@ Ans:为了求loss最小要用到梯度下降。函数在某一点的梯度就是
 
 2.6 How can we find the maximum value of a function using the information of gradient ?
 Ans:可以在函数前加上负号；或者修改梯度函数x=x+α（Δy/Δx)，相当于梯度上升。
+'''
