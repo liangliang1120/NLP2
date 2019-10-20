@@ -31,7 +31,7 @@ dataset['DESCR']
 X_rm = x[:,5]
 
 # plot the RM with respect to y
-plt.scatter(X_rm,y)
+plt.scatter(X_rm,y) 
 
 '''
 =============================Gradient descent==================================
