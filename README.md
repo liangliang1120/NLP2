@@ -1,4 +1,4 @@
 # NLP2
 bfs dfs machine_learning
-![image]()
-![image]()
+![image](https://github.com/liangliang1120/NLP2/blob/master/pict1.png)
+![image](https://github.com/liangliang1120/NLP2/blob/master/pict2.png)
