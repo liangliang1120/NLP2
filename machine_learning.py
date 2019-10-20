@@ -50,6 +50,7 @@ loss=1n∑(yi−(kxi+bi))2
 # define loss function 
 def loss(y,y_hat):
     return sum((y_i - y_hat_i)**2 for y_i, y_hat_i in zip(list(y),list(y_hat)))/len(list(y))
+#zip() 函数用于将可迭代的对象作为参数，将对象中对应的元素打包成一个个元组，然后返回由这些元组组成的列表。
 
 '''
 Define partial derivatives
