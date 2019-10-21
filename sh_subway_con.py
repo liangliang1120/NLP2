@@ -89,7 +89,7 @@ for stat in stations:
 # 以下为结果
 '''
 locat_dict = subway_location.locat_dict 
-#这是以上运行的结果，未方便阅读本文件，存储在subway_location.py
+#这是以上运行的结果，为方便阅读本文件，存储在subway_location.py
 
     
 #画图（暂未连线）
